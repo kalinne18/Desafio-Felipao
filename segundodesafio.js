@@ -1,3 +1,6 @@
+console.log("Segundo Desafio do Felipão!!")
+console.log("Desafio Calculadora de partidas Rankeadas")
+
 let saldoVitorias = calcularPartidas(222, 54)
 
 function calcularPartidas(vitorias, derrotas) {
