@@ -1,3 +1,5 @@
+console.log ("Desafio Final!!!")
+
 class Heroi {
     constructor(nome, idade, tipo) {
         this.nome = nome
